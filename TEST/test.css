@@ -1,0 +1,44 @@
+header{
+    background-color: black;
+    width: 100%;
+    padding-top: 6px;
+    padding-bottom: 20px;
+    color: purple;
+}
+
+ul {
+    background: purple;
+    border-radius: 5px;
+    color: #fff;
+    font-family: 'Anton', sans-serif;
+    font-size: 1rem;
+    padding: 20px 10px;
+    text-align: center;
+    justify-content: center;
+}
+
+section {
+    float: left;
+    width: 30%;
+    min-height: 400px;
+    margin: 0 1.5% 15px 1%;
+
+}
+
+footer{
+    background-color: black;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    clear: both;
+    margin-bottom: 0;
+}
+
+.div{
+    display: flex;
+    justify-content: space-around;
+}
+
+.lien{
+    text-decoration-line:none ;
+    color: white;
+}
